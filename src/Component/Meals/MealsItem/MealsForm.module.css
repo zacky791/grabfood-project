@@ -1,0 +1,23 @@
+.btn {
+  color: white;
+  background-color: orange;
+  border-radius: 10px;
+  text-transform: capitalize;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  padding: 10px 30px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.btn:hover,
+.btn.active {
+  background-color: yellow;
+  color: black;
+}
+
+.form {
+  text-align: right;
+}

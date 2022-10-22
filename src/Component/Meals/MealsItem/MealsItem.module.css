@@ -1,0 +1,19 @@
+.maincontainer {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid grey;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+.description {
+  font-style: italic;
+  padding-top: 3px;
+}
+
+.price {
+  color: rgb(255, 68, 0);
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 8px;
+}

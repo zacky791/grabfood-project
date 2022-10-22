@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  margin-top: 12px;
+}
+
+.containerbtn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.price {
+  font-weight: bold;
+}

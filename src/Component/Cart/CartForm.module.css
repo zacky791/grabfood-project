@@ -1,0 +1,57 @@
+ul {
+  list-style: none;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.maincontainer {
+  margin: 10px 10px;
+
+  padding-bottom: 15px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.span {
+  color: red;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.maincontainer input {
+  width: 30px;
+  margin-left: 30px;
+  display: flex;
+}
+
+.scontainer {
+  display: flex;
+  border-bottom: 1px solid gray;
+  justify-content: space-between;
+}
+
+.containerbtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  border: none;
+  width: 40px;
+  height: 25px;
+  margin-left: 4px;
+  color: orange;
+  border: 1px solid gray;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: orange;
+  color: white;
+}

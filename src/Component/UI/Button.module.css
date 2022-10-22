@@ -1,0 +1,27 @@
+.btn {
+  border: none;
+  border-radius: 200px;
+  background-color: yellowgreen;
+  width: 80px;
+  height: 40px;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: red;
+}
+
+.testing {
+  background-color: white;
+  color: orange;
+  border: 1px solid orange;
+}
+
+.testing:hover,
+.testing:active {
+  background-color: yellow;
+}
